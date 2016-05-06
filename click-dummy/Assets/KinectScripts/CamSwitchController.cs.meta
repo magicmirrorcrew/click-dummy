@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 59b26fe7a50743844a53f0f6cb1983c1
+timeCreated: 1461258825
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainCam: {fileID: 2031144, guid: 36003d51001d6944ba1161233f95f4e0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

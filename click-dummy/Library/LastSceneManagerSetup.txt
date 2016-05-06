@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/klickdummy.unity
+  isLoaded: 1
+  isActive: 1
