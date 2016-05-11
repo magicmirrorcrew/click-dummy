@@ -189,14 +189,15 @@ public class CamSwitchController : MonoBehaviour, KinectGestures.GestureListener
 
     public Camera mainCam;
 
-    public Vector3 standBy = new Vector3(-13, 50, 111);
-    public Vector3 title = new Vector3(-13, 50, 5);
-    public Vector3 load = new Vector3(-13, 50, -101);
-    public Vector3 main = new Vector3(-13, 50, -207);
-    public Vector3 geraet = new Vector3(-13, 50, -313);
-    public Vector3 profil1 = new Vector3(-13, 50, -420);
-    public Vector3 profil2 = new Vector3(-13, 50, -529);
-    public Vector3 cam = new Vector3(-13, 50, -635);
+    public Vector3 standBy = new Vector3(-156, 50, 107); //seite1
+    public Vector3 title = new Vector3(-261, 50, 107); //seite2
+    public Vector3 load = new Vector3(-368, 50, 107); //seite3
+    public Vector3 main = new Vector3(-475, 50, 107); //seite4
+    public Vector3 geraet = new Vector3(-585, 50, 107); //seite5
+    public Vector3 profil1 = new Vector3(-697, 50, 107); //seite6
+    public Vector3 profil2 = new Vector3(-805, 50, 107); //seite7
+    public Vector3 cam = new Vector3(-917, 50, 107); //seite8
+    public Vector3 failedrec = new Vector3(-1034, 50, 107); //seite9 not used yewt
 
     private int currentPage;
 
